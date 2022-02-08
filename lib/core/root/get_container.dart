@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:example_proj/core/root/root_container.dart';
 import 'package:example_proj/data/data_providers/posts/posts_data_provider_mock.dart';
 import 'package:example_proj/data/data_providers/posts/posts_data_provider_remote.dart';
-import 'package:example_proj/data/data_providers/users/users_data_provider_local.dart';
+import 'package:example_proj/data/data_providers/users/users_data_provider_mock.dart';
 import 'package:example_proj/data/data_providers/users/users_data_provider_remote.dart';
 import 'package:example_proj/services/network/core_api_impl.dart';
 import 'package:example_proj/services/network/core_api_interface.dart';
